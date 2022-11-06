@@ -1,0 +1,22 @@
+body{
+  background-color: #F5F5F1;
+}
+
+.width-80{
+  width: 80%;
+  margin: 0 auto;
+}
+
+.width-40{
+  width: 40%;
+  margin: 0 auto;
+}
+
+.cont{
+  width: calc((100% / 3) - 2rem);
+  padding-bottom: 1.5rem;
+}
+
+img{
+  width: 100%;
+}
